@@ -1,2 +1,2 @@
-# dummy-project-
-Dummy project 
+ 
+Q1 . Define tablets . Write their types . Explain in detail all the evaluation parameters of tablets . Q2 . Define hard gelatin and soft gelatin capsules and explain their manufacturing process with diagram Q3 . Define distillation and describe all its types in detail . Q4 . Define dosage form , classify them and explain them in detail . Q5 . Explain in detail pharmaceutical aerosols with construction and formulation .
